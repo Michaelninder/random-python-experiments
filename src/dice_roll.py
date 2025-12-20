@@ -17,12 +17,13 @@ def roll(unused):
     return roll
 
 def getAverage(list):
-    total = 0
+    #total = 0
     #for item in list:
     #    total += item
-    for num in list:
-        total += int(num)
-    return total / len(list)
+    #for num in list:
+    #    total += int(num)
+    #return total / len(list)
+    return sum(list) / len(list)
 
 #for option in options:
 #    print(option)
