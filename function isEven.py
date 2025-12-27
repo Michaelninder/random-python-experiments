@@ -1,4 +1,4 @@
-def oddOrEven(num):
+def isEven(num):
     if (num == 0):
         return True
     if (num == 1):
