@@ -1,305 +1,206 @@
-input = input("Enter a number: ") 
+input = int(input("Enter a number: ")) 
 
 if(input == 0):
-    print("The number is Even")
-
-if(input == 1):
+   print("The number is Even")
+elif(input == 1):
     print("The number is Odd")
-
-if(input == 2):
+elif(input == 2):
     print("The number is Even")
-
-if(input == 3):
+elif(input == 3):
     print("The number is Odd")
-
-if(input == 4):
+elif(input == 4):
     print("The number is Even")
-
-if(input == 5):
+elif(input == 5):
     print("The number is Odd")
-
-if(input == 6):
+elif(input == 6):
     print("The number is Even")
-
-if(input == 7):
+elif(input == 7):
     print("The number is Odd")
-
-if(input == 8):
+elif(input == 8):
     print("The number is Even")
-
-if(input == 9):
+elif(input == 9):
     print("The number is Odd")
-
-if(input == 10):
+elif(input == 10):
     print("The number is Even")
-
-if(input == 11):
+elif(input == 11):
     print("The number is Odd")
-
-if(input == 12):
+elif(input == 12):
     print("The number is Even")
-
-if(input == 13):
+elif(input == 13):
     print("The number is Odd")
-
-if(input == 14):
+elif(input == 14):
     print("The number is Even")
-
-if(input == 15):
+elif(input == 15):
     print("The number is Odd")
-
-if(input == 16):
+elif(input == 16):
     print("The number is Even")
-
-if(input == 17):
+elif(input == 17):
     print("The number is Odd")
-
-if(input == 18):
+elif(input == 18):
     print("The number is Even")
-
-if(input == 19):
+elif(input == 19):
     print("The number is Odd")
-
-if(input == 20):
+elif(input == 20):
     print("The number is Even")
-
-if(input == 21):
+elif(input == 21):
     print("The number is Odd")
-
-if(input == 22):
+elif(input == 22):
     print("The number is Even")
-
-if(input == 23):
+elif(input == 23):
     print("The number is Odd")
-
-if(input == 24):
+elif(input == 24):
     print("The number is Even")
-
-if(input == 25):
+elif(input == 25):
     print("The number is Odd")
-
-if(input == 26):
+elif(input == 26):
     print("The number is Even")
-
-if(input == 27):
+elif(input == 27):
     print("The number is Odd")
-
-if(input == 28):
+elif(input == 28):
     print("The number is Even")
-
-if(input == 29):
+elif(input == 29):
     print("The number is Odd")
-
-if(input == 30):
+elif(input == 30):
     print("The number is Even")
-
-if(input == 31):
+elif(input == 31):
     print("The number is Odd")
-
-if(input == 32):
+elif(input == 32):
     print("The number is Even")
-
-if(input == 33):
+elif(input == 33):
     print("The number is Odd")
-
-if(input == 34):
+elif(input == 34):
     print("The number is Even")
-
-if(input == 35):
+elif(input == 35):
     print("The number is Odd")
-
-if(input == 36):
+elif(input == 36):
     print("The number is Even")
-
-if(input == 37):
+elif(input == 37):
     print("The number is Odd")
-
-if(input == 38):
+elif(input == 38):
     print("The number is Even")
-
-if(input == 39):
+elif(input == 39):
     print("The number is Odd")
-
-if(input == 40):
+elif(input == 40):
     print("The number is Even")
-
-if(input == 41):
+elif(input == 41):
     print("The number is Odd")
-
-if(input == 42):
+elif(input == 42):
     print("The number is Even")
-
-if(input == 43):
+elif(input == 43):
     print("The number is Odd")
-
-if(input == 44):
+elif(input == 44):
     print("The number is Even")
-
-if(input == 45):
+elif(input == 45):
     print("The number is Odd")
-
-if(input == 46):
+elif(input == 46):
     print("The number is Even")
-
-if(input == 47):
+elif(input == 47):
     print("The number is Odd")
-
-if(input == 48):
+elif(input == 48):
     print("The number is Even")
-
-if(input == 49):
+elif(input == 49):
     print("The number is Odd")
-
-if(input == 50):
+elif(input == 50):
     print("The number is Even")
-
-if(input == 51):
+elif(input == 51):
     print("The number is Odd")
-
-if(input == 52):
+elif(input == 52):
     print("The number is Even")
-
-if(input == 53):
+elif(input == 53):
     print("The number is Odd")
-
-if(input == 54):
+elif(input == 54):
     print("The number is Even")
-
-if(input == 55):
+elif(input == 55):
     print("The number is Odd")
-
-if(input == 56):
+elif(input == 56):
     print("The number is Even")
-
-if(input == 57):
+elif(input == 57):
     print("The number is Odd")
-
-if(input == 58):
+elif(input == 58):
     print("The number is Even")
-
-if(input == 59):
+elif(input == 59):
     print("The number is Odd")
-
-if(input == 60):
+elif(input == 60):
     print("The number is Even")
-
-if(input == 61):
+elif(input == 61):
     print("The number is Odd")
-
-if(input == 62):
+elif(input == 62):
     print("The number is Even")
-
-if(input == 63):
+elif(input == 63):
     print("The number is Odd")
-
-if(input == 64):
+elif(input == 64):
     print("The number is Even")
-
-if(input == 65):
+elif(input == 65):
     print("The number is Odd")
-
-if(input == 66):
+elif(input == 66):
     print("The number is Even")
-
-if(input == 67):
+elif(input == 67):
     print("The number is Odd")
-
-if(input == 68):
+elif(input == 68):
     print("The number is Even")
-
-if(input == 69):
+elif(input == 69):
     print("The number is Odd")
-
-if(input == 70):
+elif(input == 70):
     print("The number is Even")
-
-if(input == 71):
+elif(input == 71):
     print("The number is Odd")
-
-if(input == 72):
+elif(input == 72):
     print("The number is Even")
-
-if(input == 73):
+elif(input == 73):
     print("The number is Odd")
-
-if(input == 74):
+elif(input == 74):
     print("The number is Even")
-
-if(input == 75):
+elif(input == 75):
     print("The number is Odd")
-
-if(input == 76):
+elif(input == 76):
     print("The number is Even")
-
-if(input == 77):
+elif(input == 77):
     print("The number is Odd")
-
-if(input == 78):
+elif(input == 78):
     print("The number is Even")
-
-if(input == 79):
+elif(input == 79):
     print("The number is Odd")
-
-if(input == 80):
+elif(input == 80):
     print("The number is Even")
-
-if(input == 81):
+elif(input == 81):
     print("The number is Odd")
-
-if(input == 82):
+elif(input == 82):
     print("The number is Even")
-
-if(input == 83):
+elif(input == 83):
     print("The number is Odd")
-
-if(input == 84):
+elif(input == 84):
     print("The number is Even")
-
-if(input == 85):
+elif(input == 85):
     print("The number is Odd")
-
-if(input == 86):
+elif(input == 86):
     print("The number is Even")
-
-if(input == 87):
+elif(input == 87):
     print("The number is Odd")
-
-if(input == 88):
+elif(input == 88):
     print("The number is Even")
-
-if(input == 89):
+elif(input == 89):
     print("The number is Odd")
-
-if(input == 90):
+elif(input == 90):
     print("The number is Even")
-
-if(input == 91):
+elif(input == 91):
     print("The number is Odd")
-
-if(input == 92):
+elif(input == 92):
     print("The number is Even")
-
-if(input == 93):
+elif(input == 93):
     print("The number is Odd")
-
-if(input == 94):
+elif(input == 94):
     print("The number is Even")
-
-if(input == 95):
+elif(input == 95):
     print("The number is Odd")
-
-if(input == 96):
+elif(input == 96):
     print("The number is Even")
-
-if(input == 97):
+elif(input == 97):
     print("The number is Odd")
-
-if(input == 98):
+elif(input == 98):
     print("The number is Even")
-
-if(input == 99):
+elif(input == 99):
     print("The number is Odd")
-
-if(input == 100):
+elif(input == 100):
     print("The number is Even")
-
+else:
+    print("An error occured with this number")
